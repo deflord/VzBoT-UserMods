@@ -10,6 +10,8 @@ The bucket is removed and installed. It is held on by 4 magnets 6х2,5 mm (i use
 The brush is secured using an M3x16 bolt.
 
 When printing the bucket, you will have to use the support for the central part.
+<img width="1024" alt="image" src="https://github.com/deflord/VzBoT-UserMods/blob/ff9aaeea24c85bd8fd516acf5c7594254f9bb0b1/Nozzle_clean_with_bucket/Gallery/Clean_nozzle.jpg">
+
 
 BOM:
 - Magnets 6x2,5mm - 4
