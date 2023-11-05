@@ -1,10 +1,16 @@
 # Nozzle cleaning brush version with large bucket for plastic assembly. 
 Based on the ideas of lollo1988vt from discord <a href="https://discord.com/channels/829828765512106054/1116789432108982342">Discord VZBOT Mods Nozzle clean brush</a>
+
 I use the beacon sensor. To prevent the sensor from hitting the metal brush during printing, I reduced the height.
+
 I also increased the size of the plastic assembly bucket.
-The bucket is removed and installed. It is held on by 4 magnets.
+
+The bucket is removed and installed. It is held on by 4 magnets 6х2,5 mm (i use from Voron 2.4 kit)
+
 The brush is secured using an M3x16 bolt.
+
 When printing the bucket, you will have to use the support for the central part.
+
 BOM:
 - Magnets 6x2,5mm - 4
 - Wire brush - 1 <a>https://aliexpress.ru/item/4000589015295.html</a>
